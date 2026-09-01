@@ -1,6 +1,6 @@
-# 💫 Hi 👋, I'm Bhumika Raghav
+#  Hi , I'm Bhumika Raghav
 
-### 🚀 CSE Student | Aspiring Software Developer | Exploring AI & Machine Learning
+### CSE Student | Aspiring Software Developer | Exploring AI & Machine Learning
 
 I'm a passionate Computer Science Engineering student who loves building projects, exploring new technologies, and turning creative ideas into real-world solutions. Currently exploring **Artificial Intelligence, Machine Learning, Computer Vision, Full-Stack Development, and Data Structures & Algorithms.**
 
